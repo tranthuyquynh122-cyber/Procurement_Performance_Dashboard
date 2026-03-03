@@ -308,7 +308,7 @@ A Power BI dashboard was developed to:
 
 ## 1️⃣ Dashboard 1 – Overview  
 
-![image alt](https://github.com/tranthuyquynh122-cyber/Purchasing-Dashboard/blob/601897189bbf2a92e012e1a05c4fbf9eb51dca3c/pc-overview.png)
+![image alt](https://github.com/tranthuyquynh122-cyber/Procurement_Performance_Dashboard/blob/ee8a6b236bdda5aa398eee31c71c39ab1949c18a/pc_overview.png)
 
 ---
 
@@ -348,7 +348,7 @@ A Power BI dashboard was developed to:
 
 ## 2️⃣ Dashboard 2 – Vendors  
 
-![image alt](https://github.com/tranthuyquynh122-cyber/Purchasing-Dashboard/blob/601897189bbf2a92e012e1a05c4fbf9eb51dca3c/pc-vendors.png)
+![image alt](https://github.com/tranthuyquynh122-cyber/Procurement_Performance_Dashboard/blob/ee8a6b236bdda5aa398eee31c71c39ab1949c18a/pc_vendors.png)
 
 ---
 
@@ -388,7 +388,7 @@ A Power BI dashboard was developed to:
 
 ## 3️⃣ Dashboard 3 – Orders  
 
-![image alt](https://github.com/tranthuyquynh122-cyber/Purchasing-Dashboard/blob/601897189bbf2a92e012e1a05c4fbf9eb51dca3c/pc-orders.png)
+![image alt](https://github.com/tranthuyquynh122-cyber/Procurement_Performance_Dashboard/blob/ee8a6b236bdda5aa398eee31c71c39ab1949c18a/pc_orders.png)
 
 ---
 
@@ -429,7 +429,7 @@ A Power BI dashboard was developed to:
 ---
 
 ### 📌 Analysis 4
-![image alt](https://github.com/tranthuyquynh122-cyber/Purchasing-Dashboard/blob/601897189bbf2a92e012e1a05c4fbf9eb51dca3c/pc-transactions.png)
+![image alt](https://github.com/tranthuyquynh122-cyber/Procurement_Performance_Dashboard/blob/ee8a6b236bdda5aa398eee31c71c39ab1949c18a/pc_transaction.png)
 
 ### 🔎 Observation
 

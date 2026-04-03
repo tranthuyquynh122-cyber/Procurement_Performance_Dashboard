@@ -446,10 +446,6 @@ This dashboard provides detailed transaction-level visibility to support auditin
 - Standardize pricing agreements to reduce **unit price variability**.  
 - Leverage transaction history to support **vendor performance evaluation and negotiation**.  
 - Enable drill-down usage for **procurement auditing and issue investigation**.
-
----
-
-
 ---
 
 <a id="final-conclusion--recommendations"></a>
@@ -465,7 +461,7 @@ This dashboard provides detailed transaction-level visibility to support auditin
 
 ---
 
-### 🎯 Strategic Recommendations (Prioritized)
+### 🎯 Recommendations
 
 **1. Control purchasing frequency (High Priority)**  
 Reduce unnecessary order fragmentation by consolidating purchases and improving planning cycles.
